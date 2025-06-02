@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # Plastic Bag Detection System
 
 A real-time plastic bag detection system using YOLOv5 and Raspberry Pi 5. The system processes low-resolution video (320×240 at 10 FPS), performs cloud-based object detection via Roboflow, and sends smart alerts through Pushbullet when plastic bags are detected.
+
+♻️ Low-cost (<$100) embedded vision system for automated plastic waste sorting. Achieves 85% accuracy at 10 FPS using a custom-trained model.
 
 ---
 
@@ -20,12 +21,6 @@ A real-time plastic bag detection system using YOLOv5 and Raspberry Pi 5. The sy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/plastic-bag-detection.git
-cd plastic-bag-detection
-=======
-# Plastic-Bag-Detector
-Plastic Bag Detection with Raspberry Pi &amp; YOLOv5 ♻️ Low-cost (&lt;$100) embedded vision system for automated plastic waste sorting. Achieves 85% accuracy at 10 FPS using custom-trained model.
->>>>>>> 557b092b2718a392407d95ff4f5a21bd6c9dc88f
-## Sample Detection Output
+git clone https://github.com/22olivia/Plastic-Bag-Detector.git
+cd Plastic-Bag-Detector
 
-![Detection Example](assets/detection_example.jpg)
