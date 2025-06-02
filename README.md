@@ -26,3 +26,6 @@ cd plastic-bag-detection
 # Plastic-Bag-Detector
 Plastic Bag Detection with Raspberry Pi &amp; YOLOv5 ♻️ Low-cost (&lt;$100) embedded vision system for automated plastic waste sorting. Achieves 85% accuracy at 10 FPS using custom-trained model.
 >>>>>>> 557b092b2718a392407d95ff4f5a21bd6c9dc88f
+## Sample Detection Output
+
+![Detection Example](assets/detection_example.jpg)
